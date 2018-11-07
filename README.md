@@ -1,4 +1,4 @@
-See this code in action here: [https://luis-martinez-s.github.io/social-card/](https://luis-martinez-s.github.io/social-card/)
+See this code in action here: [https://luismartinezs.github.io/social-card/](https://luismartinezs.github.io/social-card/)
 
 ---
 
